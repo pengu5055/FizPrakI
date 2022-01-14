@@ -1,0 +1,3 @@
+Vrtenje ali rotacija je gibanje okrog dane osi. 
+Navor ali vrtilni moment je kolicina enaka produktu sile in razdalje premice sile od osi.
+------[Insert Enacba za navor]-------
