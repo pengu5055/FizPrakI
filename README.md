@@ -1,4 +1,4 @@
-# FPhysics Praticum I
+# Physics Praticum I
 This is a compulation of measurements, plots and tables for the subject "Fizikalni Praktikum I" in the year 2019/20
 
 ### Experiment list
